@@ -11,3 +11,7 @@
 
 - Movies
 - Credits
+
+Recommends top 5 movies based on tags, tags are basically collection of words in overview, genre, keywords, top 3 actors and directors.
+
+Vectorization and cosine similarity is used to recommend movies.
